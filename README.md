@@ -11,5 +11,6 @@ To perform this the following main commands were used:
 - DML SELECT
 - DML JOIN
 - Common Table Expression CTE
+- Window function
 - DDL CREATE TABLE
 - DDL CREATE VIEW
