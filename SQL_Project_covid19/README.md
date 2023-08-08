@@ -3,6 +3,7 @@ The open data of covdi19 collected during the years was downloaded from Our Worl
 
 Two tables were created using excel, containing daily data of infection cases, number deaths for each country and daily number of vaccinations and tests performed per each coutnry.
 
+## SQL script
 These were imported into SQL Server and explored using SQL.
 
 To perform this the following main commands were used:
@@ -12,3 +13,7 @@ To perform this the following main commands were used:
 - Window function
 - DDL CREATE TABLE
 - DDL CREATE VIEW
+
+
+## Power BI
+WORK IN PROGRESS
