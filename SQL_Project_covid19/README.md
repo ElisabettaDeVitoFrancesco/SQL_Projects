@@ -13,7 +13,12 @@ To perform this the following main commands were used:
 - Window function
 - DDL CREATE TABLE
 - DDL CREATE VIEW
+  - Views created to connect to Power BI
 
 
 ## Power BI
-WORK IN PROGRESS
+The data was imported through a SQL Server connection as Direct queries.
+
+Power BI was mainly used as a data visualisation tool.
+
+After a summary of the data, total, running totals and rates data over time and locations were displayed.
