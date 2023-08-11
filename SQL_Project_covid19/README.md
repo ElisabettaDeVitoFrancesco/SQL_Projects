@@ -1,5 +1,11 @@
 # SQL Server Data Exploration of covid19
-The open data of covdi19 collected during the years was downloaded from Our World in Data.
+The covid19 data was explored and analysed:
+- total cases, deaths, tests and vaccinations were analysed over time, and across countries and continents.
+- infection and death rates over population were calculated and analysed over time, and across countries and continents.
+- infection rate over number of tests were calculated and analysed over time, and across countries and continents.
+- death rate over number of infections were calculated and analysed over time, and across countries and continents.
+
+The open data of covid19 collected during the years was downloaded from Our World in Data.
 
 Two tables were created using excel, containing daily data of infection cases, number deaths for each country and daily number of vaccinations and tests performed per each coutnry.
 
