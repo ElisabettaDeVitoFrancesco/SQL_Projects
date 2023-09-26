@@ -1,6 +1,6 @@
 # SQL Projects
 
-### SQL Server Data Exploration of covid19
+## SQL Server Data Exploration of covid19
 
 #### Scope
 The covid19 data was explored and analysed:
@@ -34,7 +34,7 @@ Power BI was mainly used as a data visualisation tool.
 After a summary of the data, total, running totals and rates data over time and locations were displayed.
 
 
-### Adventure Works report
+## Adventure Works report
 
 SQL querying and connection to a data warehouse in SQL Server to Power BI
 
